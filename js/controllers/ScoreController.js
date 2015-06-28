@@ -83,6 +83,6 @@ app.controller('ScoreController', ['$scope', function($scope) {
       period: "First Quarter",
       visitor_score: 13,
       home_score: 26
-    }    
-  ]  
+    }
+  ];
 }
